@@ -1,0 +1,32 @@
+_repo: Princess-Zara_24427
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Knight, Bert
+    gutenberg_agent_id: '26481'
+    url: http://www.gutenberg.org/2009/agents/26481
+covers:
+- cover_type: archival
+  image_path: 24427-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Beeckman, Ross
+    gutenberg_agent_id: '26482'
+    url: http://www.gutenberg.org/2009/agents/26482
+description: Princess Zara has little hope of finding happiness in Czarist Russia
+  until she finds herself falling in love with Dan Derrington, a professional spy.
+gutenberg_issued: '2008-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'Nihilism -- Fiction'
+title: Princess Zara
+url: http://www.gutenberg.org/ebooks/24427
